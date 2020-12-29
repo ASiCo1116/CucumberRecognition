@@ -1,1 +1,5 @@
-lib/data/
+cucumber/lib/data/
+cucumber/lib/'downy_&_corynespora'
+cucumber/lib/'powdery_&_anthracnose'
+__pycache__
+.ipynb_checkpoints/
